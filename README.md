@@ -1,5 +1,4 @@
 # Hi, I’m Gaby 👋
-
 ## About Me
 
 I’m interested in cybersecurity, frontend web development, and UI/UX design. I enjoy creating projects centered on serving individuals, communities, and environmental causes. My long-term goal is to use technology to make systems more inclusive, user-friendly, and impactful.
